@@ -1,0 +1,16 @@
+# Fireside temp outputs
+.tmp/fireside/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node (if any tooling)
+node_modules/

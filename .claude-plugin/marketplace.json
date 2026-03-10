@@ -1,0 +1,34 @@
+{
+  "name": "fireside",
+  "owner": {
+    "name": "Soarkey"
+  },
+  "plugins": [
+    {
+      "name": "fireside",
+      "source": "./.claude-plugin/",
+      "description": "Fireside — Primitive Society Multi-Agent Orchestration for Claude Code. A tribal council system where Scouts reconnoiter, Hunters and Gatherers debate by the fire, Shamans divine insights, and Elders render verdicts. Zero-dependency Claude Code plugin.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Soarkey"
+      },
+      "homepage": "https://github.com/Soarkey/fireside",
+      "repository": "https://github.com/Soarkey/fireside",
+      "license": "MIT",
+      "keywords": [
+        "multi-agent",
+        "orchestration",
+        "fireside",
+        "tribal-council",
+        "claude-code-plugin",
+        "hunt",
+        "council",
+        "craft",
+        "patrol",
+        "sos"
+      ],
+      "category": "development",
+      "strict": false
+    }
+  ]
+}
